@@ -47,6 +47,7 @@
 * Creating a Unity ML-Agent from Scratch Part 1
 * [First Unity ml-agent program.](https://boingb0ing.blogspot.com/2018/10/first-unity-ml-agent-program.html)
 * [(Book) Learn Unity ML-Agents – Fundamentals of Unity Machine Learning](https://www.amazon.com/Learn-Unity-ML-Agents-Fundamentals-Reinforcement/dp/1789138132)
+* [ML agents with Unity3d](https://vibhavchitale.weebly.com/unity-ml-tutorial.html)
   
 ## Simulation Environments:
 * [MADRaS: A Multi-Agent DRiving Simulator for Autonomous Driving Research](https://www.analyticsvidhya.com/blog/2018/10/madras-multi-agent-driving-simulator/)
