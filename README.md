@@ -18,13 +18,13 @@
 * [Amazon's ML courses](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * [Understanding Learning Rates and How It Improves Performance in Deep Learning (Blog post)](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
 * [Applied Deep Learning: A Case-Based Approach to Understanding Deep Neural Networks](https://www.amazon.com/Applied-Deep-Learning-Case-Based-Understanding/dp/1484237897)
+* [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
+* [Deep Learning School (RUS)](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos)
 
 ## Video lectures:
-* [RL Course by David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-* [Deep Learning School (RUS)](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos)
 * [Deepminds RL course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Yandex RL](https://github.com/yandexdataschool/Practical_RL)
-* [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
+* [RL Course by David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 * [Berkeley RL course](http://rail.eecs.berkeley.edu/deeprlcourse/) | [Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
 * [Deep RL Bootcamp (Google)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [CS 188 | Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/fa18/)
