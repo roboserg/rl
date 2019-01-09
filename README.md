@@ -37,6 +37,12 @@
 * [ROS Autonomous Car](http://f1tenth.org/lectures)
 
 ## Tutorials:
+* Reinforcement Learning w/ Keras
+	* [Reinforcement Learning w/ Keras+OpenAI: The Basics](https://medium.com/@yashpatel_86510/reinforcement-learning-w-keras-openai-698add10b4eb)
+	* [Reinforcement Learning w/ Keras + OpenAI: DQNs](https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c)
+	* [Reinforcement Learning w/ Keras + OpenAI: Actor-Critic Models](https://towardsdatascience.com/reinforcement-learning-w-keras-openai-actor-critic-models-f084612cfd69)
+* [RL — Reinforcement Learning Algorithms Quick Overview](https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d)
+* [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
 * [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 * [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
