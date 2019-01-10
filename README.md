@@ -7,6 +7,9 @@
 * [Hands-On Intelligent Agents with OpenAI Gym (CARLA etc.](https://www.amazon.de/Hands-Intelligent-Agents-OpenAI-reinforcement-ebook/dp/B07CSLCYDY)
 * [Reinforcement Learning: An Introduction](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf)
 * [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](http://web.mit.edu/dimitrib/www/RLbook.html)
+* [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+* [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+* [Deep Learning and the Game of Go ](https://www.manning.com/books/deep-learning-and-the-game-of-go)
 
 ## Blog / websites theory
 * [An Outsider's Tour of Reinforcement Learning](http://www.argmin.net/2018/06/25/outsider-rl/)
@@ -15,11 +18,15 @@
 
 ## ML / DL:
 * [Mathematics for Machine Learning (Book)](https://mml-book.github.io/)
+* [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+* [Book | Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)
 * [Amazon's ML courses](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * [Understanding Learning Rates and How It Improves Performance in Deep Learning (Blog post)](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
 * [Applied Deep Learning: A Case-Based Approach to Understanding Deep Neural Networks](https://www.amazon.com/Applied-Deep-Learning-Case-Based-Understanding/dp/1484237897)
 * [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Deep Learning School (RUS)](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos)
+* [Statistical Learning Theory and Applications](https://www.youtube.com/watch?v=EXhOuehvPAw)
+* [Lectures | Natural Language Processing with Deep Learning (Stanford / Winter 2019)](http://web.stanford.edu/class/cs224n/)
 
 ## Video lectures:
 * [Deepminds RL course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
@@ -28,6 +35,7 @@
 * [Berkeley RL course](http://rail.eecs.berkeley.edu/deeprlcourse/) | [Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
 * [Deep RL Bootcamp (Google)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [CS 188 | Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/fa18/)
+* [Waterloo RL course](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
 
 ## MOOCs:
 * [Move 37 Course](https://www.theschool.ai/courses/move-37-course/)
@@ -35,8 +43,13 @@
   
 ## Tutorial Video Series:
 * [ROS Autonomous Car](http://f1tenth.org/lectures)
+* [PyTorch Reinforcement Learning | DeepLizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+* [How to Simulate a Udacity's Self-Driving Car](https://www.youtube.com/watch?v=EaY5QiZwSP4&vl=en)
+* [DQN etc with PyTorch | Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw/videos)
+* [DQN, PPO, VizDoom etc | Thomas SIMONINI](https://www.youtube.com/channel/UC8XuSf1eD9AF8x8J19ha5og/videos) 
 
 ## Tutorials:
+* [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 * Reinforcement Learning w/ Keras
 	* [Reinforcement Learning w/ Keras+OpenAI: The Basics](https://medium.com/@yashpatel_86510/reinforcement-learning-w-keras-openai-698add10b4eb)
 	* [Reinforcement Learning w/ Keras + OpenAI: DQNs](https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c)
@@ -50,22 +63,27 @@
 * [Using reinforcement learning in Python to teach a virtual car to avoid obstacles](https://blog.coast.ai/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6)
     
 ## Unity ML:
+* [Unity ML-Agents Tutorial | AI Truffle Pigs!](https://www.youtube.com/watch?v=y9ZkCG9hbfQ)
 * Creating a Unity ML-Agent from Scratch Part 1
 * [First Unity ml-agent program.](https://boingb0ing.blogspot.com/2018/10/first-unity-ml-agent-program.html)
 * [(Book) Learn Unity ML-Agents – Fundamentals of Unity Machine Learning](https://www.amazon.com/Learn-Unity-ML-Agents-Fundamentals-Reinforcement/dp/1789138132)
 * [ML agents with Unity3d](https://vibhavchitale.weebly.com/unity-ml-tutorial.html)
+* [Arcade Style Bouncy Vehicle Physics Tutorial](http://www.doofah.com/tutorials/unity/bouncy-vehicle-tutorial/)
+* [Intro to Unity: Rocket League-ish Edition](https://www.youtube.com/watch?v=Fj6ULbDjFAA)
   
 ## Simulation Environments:
 * [MADRaS: A Multi-Agent DRiving Simulator for Autonomous Driving Research](https://www.analyticsvidhya.com/blog/2018/10/madras-multi-agent-driving-simulator/)
 * [CARLA (car gta5 like)](https://carla.org/)
 * [OpenAI Gym with custom SpaceX Rocket Lander](https://github.com/EmbersArc/gym)
+	* [Siraj Raval Turorial](https://www.youtube.com/watch?v=09OMoGqHexQ)
 * [Unity Car Environment](https://github.com/Fs02/EvolveCar)
 * [Gym-TORCS](https://github.com/ugo-nama-kun/gym_torcs)
 * [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
 * [Deep drive (GTA like)](https://deepdrive.io/)
   
 ## Papers:
-* Toward Deep Reinforcement Learning without a Simulator: An Autonomous Steering Example
+* [DDPG training a Reinforcement Learning Agent for TORCS](https://www.dropbox.com/s/s47eboddf0yoh4m/Jeroen%20van%20den%20Heuvel%20TorcsRL%20report.pdf)
+* [Toward Deep Reinforcement Learning without a Simulator: An Autonomous Steering Example](https://arxiv.org/pdf/1612.01086.pdf)
 * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
 	
 ## Github:
