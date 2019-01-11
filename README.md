@@ -90,6 +90,7 @@
 * [DDPG training a Reinforcement Learning Agent for TORCS](https://www.dropbox.com/s/s47eboddf0yoh4m/Jeroen%20van%20den%20Heuvel%20TorcsRL%20report.pdf)
 * [Toward Deep Reinforcement Learning without a Simulator: An Autonomous Steering Example](https://arxiv.org/pdf/1612.01086.pdf)
 * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf)
 	
 ## Github:
 * [Keras RL](https://github.com/keras-rl/keras-rl)
