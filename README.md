@@ -40,6 +40,8 @@
 ## MOOCs:
 * [Move 37 Course](https://www.theschool.ai/courses/move-37-course/)
 * [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/?couponCode=YOUTUBE09)
+* [Udemy | Advanced AI: Deep Reinforcement Learning in Python](https://www.udemy.com/deep-reinforcement-learning-in-python/)
+* [Udemy | Artificial Intelligence: Reinforcement Learning in Python](https://www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/)
   
 ## Tutorial Video Series:
 * [ROS Autonomous Car](http://f1tenth.org/lectures)
@@ -49,6 +51,7 @@
 * [DQN, PPO, VizDoom etc | Thomas SIMONINI](https://www.youtube.com/channel/UC8XuSf1eD9AF8x8J19ha5og/videos) 
 
 ## Tutorials:
+* [How TRPO and PPO Stabilize Policy Gradient Methods](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
 * [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 * Reinforcement Learning w/ Keras
 	* [Reinforcement Learning w/ Keras+OpenAI: The Basics](https://medium.com/@yashpatel_86510/reinforcement-learning-w-keras-openai-698add10b4eb)
@@ -80,6 +83,7 @@
 * [Gym-TORCS](https://github.com/ugo-nama-kun/gym_torcs)
 * [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
 * [Deep drive (GTA like)](https://deepdrive.io/)
+* [Snake - Slitherin](https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-1-domain-specific-solvers-d1f5a5ccd635)
   
 ## Papers:
 * [DDPG training a Reinforcement Learning Agent for TORCS](https://www.dropbox.com/s/s47eboddf0yoh4m/Jeroen%20van%20den%20Heuvel%20TorcsRL%20report.pdf)
@@ -92,4 +96,5 @@
 
 ## Other resourses:
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+* [RL github repo](https://github.com/dennybritz/reinforcement-learning)
 * [A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning#neural)
