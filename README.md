@@ -91,6 +91,7 @@
 * [Toward Deep Reinforcement Learning without a Simulator: An Autonomous Steering Example](https://arxiv.org/pdf/1612.01086.pdf)
 * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
 * [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf)
+* [POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer](https://eng.uber.com/poet-open-ended-deep-learning/)
 	
 ## Github:
 * [Keras RL](https://github.com/keras-rl/keras-rl)
