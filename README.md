@@ -51,6 +51,7 @@
 * [DQN, PPO, VizDoom etc | Thomas SIMONINI](https://www.youtube.com/channel/UC8XuSf1eD9AF8x8J19ha5og/videos) 
 
 ## Tutorials:
+* [Reinforcement Learning with Prediction-Based Rewards](https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/#firsttimejump)
 * [How TRPO and PPO Stabilize Policy Gradient Methods](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
 * [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 * Reinforcement Learning w/ Keras
