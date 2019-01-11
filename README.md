@@ -53,9 +53,12 @@
 ## Tutorials:
 * DQN
 	* [LET’S MAKE A DQN: IMPLEMENTATION](https://jaromiru.com/2016/10/03/lets-make-a-dqn-implementation/)
+	* [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+	* [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
+
 * [Reinforcement Learning with Prediction-Based Rewards](https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/#firsttimejump)
 * [How TRPO and PPO Stabilize Policy Gradient Methods](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
-* [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+
 * Reinforcement Learning w/ Keras
 	* [Reinforcement Learning w/ Keras+OpenAI: The Basics](https://medium.com/@yashpatel_86510/reinforcement-learning-w-keras-openai-698add10b4eb)
 	* [Reinforcement Learning w/ Keras + OpenAI: DQNs](https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c)
@@ -64,7 +67,6 @@
 * [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
 * [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 * [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)
-* [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
 * [Simple Reinforcement Learning with Tensorflow (9 parts)](https://medium.com/@awjuliani)
 * [Using reinforcement learning in Python to teach a virtual car to avoid obstacles](https://blog.coast.ai/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6)
     
