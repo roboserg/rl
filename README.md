@@ -55,6 +55,7 @@
 	* [LET’S MAKE A DQN: IMPLEMENTATION](https://jaromiru.com/2016/10/03/lets-make-a-dqn-implementation/)
 	* [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 	* [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
+	* [DQN + imporvments](https://medium.com/@AdrienLE)
 
 * [Reinforcement Learning with Prediction-Based Rewards](https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/#firsttimejump)
 * [How TRPO and PPO Stabilize Policy Gradient Methods](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
@@ -105,3 +106,4 @@
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 * [RL github repo](https://github.com/dennybritz/reinforcement-learning)
 * [A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning#neural)
+* [OpenAI retro tuts](https://medium.com/@aureliantactics)
