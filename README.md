@@ -81,6 +81,8 @@
 * [Intro to Unity: Rocket League-ish Edition](https://www.youtube.com/watch?v=Fj6ULbDjFAA)
   
 ## Simulation Environments:
+
+* [Airsim - Unity SDC sim](https://github.com/Microsoft/AirSim)
 * [MADRaS: A Multi-Agent DRiving Simulator for Autonomous Driving Research](https://www.analyticsvidhya.com/blog/2018/10/madras-multi-agent-driving-simulator/)
 * [CARLA (car gta5 like)](https://carla.org/)
 * [OpenAI Gym with custom SpaceX Rocket Lander](https://github.com/EmbersArc/gym)
